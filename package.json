@@ -1,0 +1,25 @@
+{
+  "name": "twitter_stream",
+  "version": "0.1.0",
+  "description": "Twitter streaming api examples",
+  "main": "top_ten.js",
+  "dependencies": {
+    "config": "^1.2.2",
+    "lodash": "^2.4.1",
+    "twitter": "^0.2.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EricMCornelius/twitter_stream"
+  },
+  "author": "Eric Cornelius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricMCornelius/twitter_stream/issues"
+  },
+  "homepage": "https://github.com/EricMCornelius/twitter_stream"
+}
